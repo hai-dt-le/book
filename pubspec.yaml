@@ -1,0 +1,29 @@
+name: book_reader
+description: A simple bilingual (EN/VI) story reader skeleton for hai-dt-le/book
+publish_to: 'none'
+version: 0.1.0+1
+environment:
+  sdk: '>=2.18.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  provider: ^6.0.5
+  shared_preferences: ^2.0.15
+  flutter_localizations:
+    sdk: flutter
+  intl: ^0.17.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/stories.json
+  
+# Optional: configure l10n if needed
+flutter_intl:
+  enabled: false

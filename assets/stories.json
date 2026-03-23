@@ -1,0 +1,37 @@
+[
+  {
+    "id": "story1",
+    "title_en": "The Little Star",
+    "title_vi": "Ngôi Sao Bé Nhỏ",
+    "chapters": [
+      {
+        "id": "c1",
+        "title_en": "Chapter 1 - A Spark",
+        "title_vi": "Chương 1 - Một tia sáng",
+        "content_en": "Once upon a time a little star was born...",
+        "content_vi": "Ngày xửa ngày xưa, một ngôi sao nhỏ đã sinh ra..."
+      },
+      {
+        "id": "c2",
+        "title_en": "Chapter 2 - The Journey",
+        "title_vi": "Chương 2 - Hành trình",
+        "content_en": "The little star wanted to see the world...",
+        "content_vi": "Ngôi sao nhỏ muốn nhìn thế giới..."
+      }
+    ]
+  },
+  {
+    "id": "story2",
+    "title_en": "Forest Tales",
+    "title_vi": "Truyện Rừng Xanh",
+    "chapters": [
+      {
+        "id": "c1",
+        "title_en": "Chapter 1 - The Oak",
+        "title_vi": "Chương 1 - Cây Sồi",
+        "content_en": "In the heart of the forest stood an old oak...",
+        "content_vi": "Ở giữa rừng có một cây sồi già..."
+      }
+    ]
+  }
+]
